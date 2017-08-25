@@ -3,5 +3,9 @@ body{
 	font-size: 35px;
 }
 h1{
-	color: red;
+	/*color: red;*/
+}
+p{
+	color: blue;
+	font-style: italic;
 }
