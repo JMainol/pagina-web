@@ -3,9 +3,6 @@ body{
 	font-size: 35px;
 }
 h1{
-	/*color: red;*/
-}
-p{
-	color: blue;
-	font-style: italic;
+	color: green;
+	font-style: bold;
 }
