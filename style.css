@@ -1,8 +1,17 @@
 body{
+<<<<<<< HEAD
 	background-color: purple;
 	font-size: 40px;
 }
 h1{
 	color: blue;
 	font-style: bold;
+=======
+	background-color: grey;
+	font-size: 45px;
+}
+h1{
+	color: red;
+	font-style: italic;
+>>>>>>> Cambiar-color-fondo
 }
